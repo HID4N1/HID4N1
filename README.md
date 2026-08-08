@@ -1,265 +1,156 @@
+<div align="center">
+
 # Hi, I'm Diyae Eddine 👋
 
-### Software Engineer · AI & Automation · SaaS · Business Systems
+### Software Engineer · SaaS Builder · AI & Automation · Founder @ SmartDex
 
-I build **production-oriented software systems** that combine business logic, automation, data, and artificial intelligence.
+I design and build **production-oriented software systems** that transform
+real business operations into scalable digital platforms.
 
-My work is primarily focused on turning real operational processes into structured digital platforms — from **ERP systems and field operations platforms** to **AI-powered document processing, SaaS applications, analytics, and automation**.
+[![Website](https://img.shields.io/badge/SmartDex-smartdex.ma-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartdex.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diyae_Eddine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyae-eddine-sayakoul/)
+[![GitHub](https://img.shields.io/badge/GitHub-HID4N1-181717?style=for-the-badge&logo=github)](https://github.com/HID4N1)
 
-I'm also building **SmartDex**, a technology company focused on AI, business process automation, custom SaaS platforms, and data-driven business systems.
-
----
-
-## 🧠 What I Work On
-
-```text
-AI & Intelligent Automation
-├── LLM-powered document intelligence
-├── Structured data extraction
-├── AI-assisted business workflows
-├── Validation & control pipelines
-└── Agentic system architecture
-
-Backend Engineering
-├── Django
-├── Django REST Framework
-├── PostgreSQL
-├── REST APIs
-├── Celery
-└── Redis
-
-Frontend Engineering
-├── React
-├── Vite
-├── Material UI
-├── Responsive Web Applications
-└── Operational Dashboards
-
-Infrastructure
-├── Linux / Ubuntu
-├── Nginx
-├── Gunicorn
-├── Docker
-├── GitHub Actions
-├── CI/CD
-├── Cloudflare
-└── Vercel
-
-Data & Analytics
-├── Operational reporting
-├── KPI systems
-├── Business intelligence
-├── Data pipelines
-└── Analytics architecture
-```
+</div>
 
 ---
 
-## 🚀 Current Focus
+## 👨‍💻 About Me
 
-I'm currently working on systems where **software engineering meets real business operations**.
+I'm a software engineer focused on building systems where **software meets real business operations**.
 
-A major area of my work involves designing platforms that manage:
+My work spans:
 
-* Field operations
-* Financial workflows
-* Transaction reconciliation
-* Document intelligence
-* Operational control
-* Role-based workflows
-* Business reporting
-* KPI monitoring
-* Data collection
-* Analytics
+- 🏢 **Enterprise applications & ERP systems**
+- 🚀 **Multi-tenant SaaS platforms**
+- 🤖 **AI-powered document processing & automation**
+- 📊 **Data engineering, analytics & reporting**
+- ⚙️ **Business process automation**
+- ☁️ **Cloud infrastructure & CI/CD**
+- 🧠 **Backend architecture & complex business logic**
 
-I'm particularly interested in the transition from traditional operational applications toward systems where **AI, structured data, analytics, and automation are native parts of the architecture**.
+I enjoy taking messy operational processes — spreadsheets, paperwork, manual approvals,
+financial reconciliation and disconnected workflows — and turning them into
+**structured, auditable and scalable software systems**.
 
----
-
-## 🤖 AI Engineering
-
-One of my main areas of experimentation and development is **Document Intelligence**.
-
-Instead of treating AI as a standalone chatbot, I integrate LLMs directly into business workflows.
-
-Typical architecture:
-
-```text
-Document / Image
-       │
-       ▼
-AI Extraction
-       │
-       ▼
-Structured Schema
-       │
-       ▼
-Business Validation
-       │
-       ▼
-Human Review
-       │
-       ▼
-Operational Database
-       │
-       ▼
-Analytics / Reporting
-```
-
-The objective is not simply to "use AI."
-
-The objective is to build **controlled, auditable AI systems that can operate inside real business processes.**
+I'm also building **SmartDex**, a technology company focused on custom software,
+AI automation and SaaS solutions for businesses.
 
 ---
 
-## 🏗️ How I Think About Software
-
-I care strongly about:
-
-**Business logic before complexity.**
-
-A technically impressive architecture is useless if the underlying business rules are wrong.
-
-My preferred progression is:
-
-```text
-Understand the operation
-        ↓
-Model the business rules
-        ↓
-Lock the source of truth
-        ↓
-Build the transactional system
-        ↓
-Automate repetitive workflows
-        ↓
-Collect reliable data
-        ↓
-Build analytics
-        ↓
-Introduce intelligent automation
-```
-
-This approach is especially important when building ERP, financial, operational, and data-intensive systems.
-
----
-
-## 🧩 Systems I'm Interested In
-
-* Enterprise Resource Planning
-* Business Process Automation
-* AI Agents
-* Document Intelligence
-* SaaS Architecture
-* Distributed Systems
-* Data Engineering
-* Business Intelligence
-* Operational Analytics
-* Financial Reconciliation Systems
-* Field Operations Platforms
-* Internal Business Tools
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 ### Backend
 
-`Python` · `Django` · `Django REST Framework` · `PostgreSQL`
-
-### Async & Processing
-
-`Celery` · `Redis`
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+</p>
 
 ### Frontend
 
-`React` · `Vite` · `Material UI` · `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
 
-### AI
+### Data & Databases
 
-`OpenAI APIs` · `LLMs` · `Structured Extraction` · `Document Intelligence`
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
-### Infrastructure
+`ETL` · `Data Warehousing` · `Data Lakes` · `Analytics` · `OLTP / OLAP`
 
-`Linux` · `Nginx` · `Gunicorn` · `Docker` · `GitHub Actions` · `Cloudflare` · `Vercel`
+### Cloud & DevOps
 
-### Data
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws,vercel,cloudflare,linux" />
+</p>
 
-`PostgreSQL` · `Data Modeling` · `Analytics` · `KPI Design` · `Reporting`
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 💼 SmartDex
+## 🚀 What I'm Building
 
-I'm building **SmartDex**, a Morocco-based technology company focused on designing and developing digital systems for businesses.
+### 🚗 Rentivo — Car Rental SaaS
 
-Core areas include:
+A multi-tenant SaaS platform designed for professional car rental agencies.
+
+**Architecture**
+
+`Next.js` · `TypeScript` · `Django REST Framework` · `PostgreSQL`
+
+Key areas include:
+
+- Fleet management
+- Customer management
+- Reservations
+- Contracts
+- Payments
+- Reporting & analytics
+- Tenant management
+- Subscription & billing architecture
+- Role-based access control
+- Multi-tenant data isolation
+
+The project is also evolving toward a **data analytics architecture** combining
+transactional OLTP systems with ETL pipelines, data lake storage and analytical workloads.
+
+---
+
+### 🏢 Enterprise Field Operations & Financial Platform
+
+A production-oriented enterprise platform for managing distributed field operations,
+financial documents and transaction reconciliation.
+
+`Django` · `DRF` · `React` · `PostgreSQL` · `Redis` · `Celery`
+
+The system includes:
+
+- Field mission management
+- Agent workflows
+- Device/terminal assignment
+- AI-assisted document extraction
+- Financial reconciliation
+- Transaction settlement
+- Expense management
+- Recovery workflows
+- Operational dashboards
+- Financial KPIs
+- Reporting & Excel exports
+- Role-based permissions
+- Audit-friendly business rules
+
+The platform is designed around a core principle:
+
+> **Operational data should remain traceable from the real-world event to the financial result.**
+
+---
+
+### 🤖 AI Document Intelligence
+
+Building document-processing workflows that turn operational documents into
+structured business data.
+
+Typical pipeline:
 
 ```text
-Artificial Intelligence
-Business Process Automation
-Custom SaaS Platforms
-ERP & CRM Systems
-Business Intelligence
-Data Analytics
-Custom Software Development
-```
-
-The broader objective is to help organizations move from fragmented manual processes toward **structured, automated, and measurable digital operations**.
-
----
-
-## 🔬 Engineering Philosophy
-
-I prefer systems that are:
-
-* **Explicit** — business rules should be understandable.
-* **Auditable** — important decisions should be traceable.
-* **Modular** — components should have clear responsibilities.
-* **Data-driven** — operational decisions should come from reliable data.
-* **Production-oriented** — architecture should account for deployment, monitoring, failure, and recovery.
-* **Simple where possible** — complexity should solve a real problem.
-* **AI-assisted, not AI-dependent** — deterministic business rules remain authoritative where they should.
-
----
-
-## 📈 Currently Exploring
-
-I'm currently going deeper into:
-
-```text
-Big Data Architecture
-Data Warehousing
-ETL / ELT Pipelines
-Analytics Engineering
-Advanced PostgreSQL
-Event-driven Architecture
-Distributed Task Processing
-AI Agent Architecture
-LLM Evaluation & Observability
-Enterprise System Design
-```
-
-My long-term interest is in building systems where:
-
-> **Operational Software → Reliable Data → Analytics → Automation → Intelligence**
-
----
-
-## 🌍 Based in Morocco 🇲🇦
-
-Building software for real businesses, real operations, and real-world constraints.
-
----
-
-## 📫 Connect
-
-I'm interested in:
-
-**AI · SaaS · ERP · Automation · Data · Business Systems · Software Architecture**
-
-If you're working on an interesting problem involving any of these areas, feel free to reach out.
-
----
-
-> *Build the process correctly. Capture the data reliably. Automate what makes sense. Then make the system intelligent.*
+Document
+   ↓
+Upload
+   ↓
+AI / OCR Extraction
+   ↓
+Schema Validation
+   ↓
+Business Rule Validation
+   ↓
+Human Review
+   ↓
+Structured Data
+   ↓
+Analytics / Financial Workflows
